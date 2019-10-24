@@ -14,3 +14,4 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 3)Sklearn
 
+## Run the code in jupyter notebook 
