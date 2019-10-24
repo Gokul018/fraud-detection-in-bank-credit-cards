@@ -1,6 +1,6 @@
-# fraud-detection-in-bank-credit-cards
+# Fraud-detection-in-bank-credit-cards
 
-To run this make sure these modules are present 
+## To run this make sure these modules are present 
 
 1)Pandas
 
